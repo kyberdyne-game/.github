@@ -1,6 +1,3 @@
-## Hi there 👋
-Kyberdyne White Paper 
-
 ---
 
 1. PROJECT OVERVIEW: What is Kyberdyne? 
